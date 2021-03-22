@@ -1,0 +1,22 @@
+.container{
+  margin-top:  10%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.bd-highlight{
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.weatherElement{
+  font-size: 56px;
+}
+
+.cityElement{
+  font-size: 32px;
+}
+
+.tempElement{
+  font-size: 125px;
+}
